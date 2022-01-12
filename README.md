@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Braden-077
+- 👋 Hi, I’m Braden Rich!
 - 👀 I’m interested in Computer Software Development. 
 - 🌱 I’m currently learning JavaScript, Ruby, HTML, and CSS.
 - 💞️ I’m looking to collaborate on anything development! I'm just here to learn and become more refined in Development.
