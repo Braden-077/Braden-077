@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Braden Rich!
-- 👀 I’m interested in Computer Software Development. 
-- 🌱 I’m currently learning JavaScript, Ruby, HTML, and CSS.
-- 💞️ I’m looking to collaborate on anything development! I'm just here to learn and become more refined in Development.
-- 📫 How to reach me: 
+# About me
 
-<!---
-Braden-077/Braden-077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Braden Rich. I graduated Concord Christian School as their class of 2021. Since graduation, I have refined my coding skills in Ruby, Rails, HTML, CSS, and (more recently) JavaScript. I am currently (06/01/22 start) attending the `RoleModel Software Craftsmanship Academy`. 
+
+I am always open to building new exciting apps, fixing old ones, and all around improving on my skills.
